@@ -53,6 +53,10 @@ To run this project, you'll need to have **Python 3.7 or above** installed. If y
    pip install -r requirements.txt
    ```
 
+   ```bash
+   pip install streamlit geopandas folium streamlit-folium geopy
+   ```
+
 4. **Run the Application**
 
    Use the following command to start the Streamlit application:
